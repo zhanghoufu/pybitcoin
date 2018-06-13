@@ -51,5 +51,4 @@ $ docker run --rm -p 83:5000 blockchain
 ```
 
 ## 贡献
-[深入浅出区块链](http://learnblockchain.cn/) 想做好的区块链学习博客。
-[博客地址](https://github.com/zhanghoufu) 欢迎大家一起参与贡献，一起推动区块链技术发展。
+欢迎大家一起参与贡献，一起推动区块链技术发展。
